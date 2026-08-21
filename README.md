@@ -12,7 +12,7 @@ Focado em desenvolvimento de software e IA
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 
 
-Melhores Projetos
+Projetos ABAIXO
 
 - Domando GPT — projeto relacionado a IA
 - projeto - cafeteria 
