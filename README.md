@@ -1,8 +1,8 @@
-👋 Olá, eu sou o Thiago!
+Bem vindo ao meu perfil, eu sou o Thiago!
 
 💻 Desenvolvedor apaixonado por tecnologia  
-🚀 Construindo projetos e aprendendo todos os dias  
-🎯 Focado em desenvolvimento de software
+Construindo projetos e aprendendo todos os dias  
+Focado em desenvolvimento de software
 
  🛠️ Tecnologias
 
@@ -12,9 +12,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 
 
-🚀 Melhores Projetos
+Melhores Projetos
 
-- 🔥Domando GPT — projeto relacionado a IA
+- Domando GPT — projeto relacionado a IA
 - projeto - cafeteria 
 
 
