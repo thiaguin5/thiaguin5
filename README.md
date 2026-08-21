@@ -2,7 +2,7 @@ Bem vindo ao meu perfil, eu sou o Thiago!
 
 💻 Desenvolvedor apaixonado por tecnologia  
 Construindo projetos e aprendendo todos os dias  
-Focado em desenvolvimento de software
+Focado em desenvolvimento de software e IA
 
  🛠️ Tecnologias
 
