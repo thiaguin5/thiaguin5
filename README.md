@@ -14,8 +14,7 @@ Focado em desenvolvimento de software e IA
 
 Projetos ABAIXO
 
-- Domando GPT — projeto relacionado a IA
-- projeto - cafeteria 
+
 
 
 
