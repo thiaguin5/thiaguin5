@@ -4,6 +4,18 @@ Bem vindo ao meu perfil, eu sou o Thiago!
 Construindo projetos e aprendendo todos os dias  
 Focado em desenvolvimento de software e IA
 
+Sobre mim
+
+Sou um estudante de programação de 17 anos e venho estudando desenvolvimento de software desde os 16.
+
+Atualmente, estou aprimorando meus conhecimentos em BackEnd, criando projetos próprios e buscando aprender cada vez mais sobre desenvolvimento.
+
+Estou sempre desenvolvendo novos projetos para colocar meus conhecimentos em prática e construir meu portfólio.
+
+
+🎯 Objetivo: continuar evoluindo como desenvolvedor, adquirir experiência profissional e futuramente trabalhar na área de programação.
+
+
  🛠️ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
