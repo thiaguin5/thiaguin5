@@ -13,17 +13,6 @@ Estou sempre desenvolvendo novos projetos para colocar meus conhecimentos em pr�
 
 🔹Objetivo: continuar evoluindo como desenvolvedor, adquirir experiência profissional e futuramente trabalhar na área de programação.
 
-🔹 Tecnologias/Technologies
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JSON Server](https://img.shields.io/badge/JSON%20Server-F7DF1E?style=for-the-badge&logo=json&logoColor=black)
-![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 🔺Welcome to my profile, I’m Thiago!
 
@@ -36,6 +25,18 @@ Focused on software development and AI
 I’m a 17-year-old programming student and I’ve been studying software development since I was 16. Currently, I’m improving my BackEnd skills, creating my own projects, and always looking to learn more about development. I’m constantly working on new projects to put my knowledge into practice and build my portfolio.
 
 🔹Goal: to continue growing as a developer, gain professional experience, and eventually work in the programming field.
+
+🔹 Tecnologias/Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JSON Server](https://img.shields.io/badge/JSON%20Server-F7DF1E?style=for-the-badge&logo=json&logoColor=black)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <!--
 **thiaguin5/thiaguin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
