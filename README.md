@@ -24,7 +24,7 @@ Objetivo: continuar evoluindo como desenvolvedor, adquirir experiência profissi
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![db.json](https://img.shields.io/badge/db.json-F7DF1E?style=for-the-badge&logo=json&logoColor=black)
+![JSON Server](https://img.shields.io/badge/JSON%20Server-F7DF1E?style=for-the-badge&logo=json&logoColor=black)
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
